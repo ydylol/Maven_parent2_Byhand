@@ -14,7 +14,7 @@
         <module>hand-ssm-pojo</module>
         <module>hand-ssm-web</module>
     </modules>
-
+<!--修改一下-->
     <properties>
         <spring.version>5.0.2.RELEASE</spring.version>
         <slf4j.version>1.6.6</slf4j.version>
